@@ -1,5 +1,4 @@
-/*Header file*/
-
+//Header file
 #ifndef tictactoe_h
 #define tictactoe_h
 
