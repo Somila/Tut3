@@ -1,3 +1,5 @@
+/*Header file*/
+
 #ifndef tictactoe_h
 #define tictactoe_h
 
@@ -8,7 +10,7 @@ public:
 	void Draw();
 	void Print();
 	void Move(int move);
-	void Player(char player);
+	void Player(char competitor);
 	bool If_Draw();
 };
 #endif
